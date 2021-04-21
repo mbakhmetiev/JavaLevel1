@@ -42,7 +42,7 @@ public class Lesson2 {
     }
     // Метод задания 4
     private static void printString(String tellNolies, int x) {
-        for (int i = 1; i <= x; i++ ) {
+        for (int i = 0; i < x; i++ ) {
             System.out.println(tellNolies);
         }
     }
