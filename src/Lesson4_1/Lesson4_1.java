@@ -1,10 +1,10 @@
-package Lesson4;
+package Lesson4_1;
 
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Lesson4 {
+public class Lesson4_1 {
 	private static final int SIZE = 5; // Размер игрового поля, может быть 5 и 3
 	private static final int DOTS = 4;// Кол-во фишек, может быть 3 и 4 соотв для поля 3х3 и 5х5
 	private static final char DOT_EMPTY = '●';
